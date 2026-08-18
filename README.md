@@ -1,4 +1,4 @@
-# Urban Tree Stress Detection — Frankfurt am Main
+# Urban Tree Stress Detection - Frankfurt am Main
 
 Code and data for the M.Sc. thesis *"Remote Sensing-Based Differentiation of Tree Stress Factors in Urban Environments Using Multispectral and SAR Data: A Case Study in Frankfurt am Main"* (Santosh Ganiger, Frankfurt UAS, in co-operation with Karuna Technology).
 
